@@ -1,0 +1,7 @@
+[requires]
+stow-generator/0.1.0@grisumbras/dev
+b2/4.0.0
+sassc/3.6.1@grisumbras/stable
+
+[generators]
+stow
